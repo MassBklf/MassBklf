@@ -13,7 +13,7 @@ I'm a **System Integration Specialist** passionate about building efficient IT s
 ---
 
 ## 🛠️ Skills & Tools
-- 🖥️ **System Administration**: Windows Server, Linux  
+- 🖥️ **System Administration**: Windows, Linux  
 - 🌐 **Networking**: Cisco, TCP/IP, Firewalls  
 - 🔧 **Scripting**: Bash, PowerShell, Python  
 - ☁️ **Cloud**: AWS, Azure  
@@ -21,16 +21,16 @@ I'm a **System Integration Specialist** passionate about building efficient IT s
 
 ---
 
-## 📈 GitHub Stats  
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical)  
+## 📈 GitHub Stats
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical)  
 
 ---
 
 ## 📫 Let's Connect
-- 🌐 [My Website](https://yourwebsite.com)  
-- 💼 [LinkedIn](https://linkedin.com/in/yourprofile)  
-- 📧 Email: your.email@example.com  
+- 🌐 [My Website](https://me.masshd.de)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/marcel-althoff-36b02a280/)  
+- 📧 Email: github@masshd.de  
 
 ---
 
